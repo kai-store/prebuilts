@@ -1,0 +1,1 @@
+export PATH="/Users/seinlin/workspace/quoin/prebuilts/rust/x86_64-apple-darwin/cargo/bin:$PATH"

@@ -1,0 +1,1 @@
+export PATH="/home/seinlin/workspace/kaios/prebuilts/rust/x86_64-unknown-linux-gnu/cargo/bin:$PATH"
